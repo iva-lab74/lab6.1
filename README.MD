@@ -1,0 +1,1 @@
+simple object-oriented inventory tracker using TypeScript
