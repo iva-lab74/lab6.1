@@ -18,3 +18,5 @@ class DigitalProduct extends Product {
         return `${this.fileSize} MB`;
     }
 }
+
+export {DigitalProduct}

@@ -20,4 +20,4 @@ class PhysicalProduct extends Product {
     }
 }
 
-
+export {PhysicalProduct}
